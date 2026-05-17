@@ -1,1 +1,1 @@
-# DSA-java
+ai-interview-simulator
